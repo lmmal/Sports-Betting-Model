@@ -7,3 +7,7 @@ selenium
 beautifulsoup4
 tqdm
 seaborn
+pyarrow
+fastparquet
+scikit-learn
+pydantic

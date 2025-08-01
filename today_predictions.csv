@@ -1,0 +1,21 @@
+game_date,home_team,away_team,bet_type,pick,confidence,model_prob,team
+2025-08-01,Cincinnati Reds,Atlanta Braves,total,under,high,0.8318862978822638,
+2025-08-01,Cincinnati Reds,Atlanta Braves,spread,,high,0.8874930764474941,Atlanta Braves
+2025-08-01,Chicago Cubs,Baltimore Orioles,total,under,high,0.8318862978822638,
+2025-08-01,Chicago Cubs,Baltimore Orioles,spread,,high,0.8874930764474941,Baltimore Orioles
+2025-08-01,Philadelphia Phillies,Detroit Tigers,total,under,high,0.8318862978822638,
+2025-08-01,Philadelphia Phillies,Detroit Tigers,spread,,high,0.8874930764474941,Detroit Tigers
+2025-08-01,Washington Nationals,Milwaukee Brewers,total,under,high,0.8318862978822638,
+2025-08-01,Washington Nationals,Milwaukee Brewers,spread,,high,0.8874930764474941,Milwaukee Brewers
+2025-08-01,Toronto Blue Jays,Kansas City Royals,total,under,high,0.8318862978822638,
+2025-08-01,Toronto Blue Jays,Kansas City Royals,spread,,high,0.8874930764474941,Kansas City Royals
+2025-08-01,Cleveland Guardians,Minnesota Twins,total,under,high,0.8318862978822638,
+2025-08-01,Cleveland Guardians,Minnesota Twins,spread,,high,0.8874930764474941,Minnesota Twins
+2025-08-01,Boston Red Sox,Houston Astros,total,under,high,0.8318862978822638,
+2025-08-01,Boston Red Sox,Houston Astros,spread,,high,0.8874930764474941,Houston Astros
+2025-08-01,Miami Marlins,New York Yankees,total,under,high,0.8318862978822638,
+2025-08-01,Miami Marlins,New York Yankees,spread,,high,0.8874930764474941,New York Yankees
+2025-08-01,New York Mets,San Francisco Giants,total,under,high,0.8318862978822638,
+2025-08-01,New York Mets,San Francisco Giants,spread,,high,0.8874930764474941,San Francisco Giants
+2025-08-01,Tampa Bay Rays,Los Angeles Dodgers,total,under,high,0.8318862978822638,
+2025-08-01,Tampa Bay Rays,Los Angeles Dodgers,spread,,high,0.8874930764474941,Los Angeles Dodgers
